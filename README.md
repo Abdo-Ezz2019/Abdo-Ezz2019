@@ -19,8 +19,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Abdo-Ezz2019/-i-NSTANT--Ai/tree/main/Python)
 [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)](https://drive.google.com/file/d/1nu2Z5cSNj_g9QDshFNBnZ_F5sYdsU0V_/view?usp=sharing)
 [![NTI](https://img.shields.io/badge/NTI-AI%20Program-orange?style=for-the-badge&logo=google-scholar&logoColor=white)](https://github.com/Abdo-Ezz2019/NTI-Huawei-Egyption-Talent-AI)
-
-
+[![Instant AI](https://img.shields.io/badge/Instant--AI-Diploma-blueviolet?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/Abdo-Ezz2019/-i-NSTANT--Ai/tree/main)
 
 ---
 
