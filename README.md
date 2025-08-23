@@ -16,7 +16,6 @@
 
 ## ⚡ Tech Stack
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://link-to-your-cv.com)
 [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)](https://drive.google.com/file/d/1nu2Z5cSNj_g9QDshFNBnZ_F5sYdsU0V_/view?usp=sharing)
 
 
