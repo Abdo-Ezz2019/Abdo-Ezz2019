@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdulrahman  
 
 🎓 **AI Engineer | Machine Learning Enthusiast | Problem Solver**  
-💡 Passionate about **Deep Learning, Computer Vision, NLP, and MLOps**  
+💡 Passionate about **Deep Learning, Computer Vision and NLP**  
 🚀 Always learning & building projects that connect research with real-world impact.  
 
 ---
@@ -9,7 +9,6 @@
 ## 🧑‍💻 About Me
 - 🔭 Currently working on **AI-powered solutions** (Computer Vision & NLP).  
 - 🤖 Experienced with **Python, TensorFlow, PyTorch, OpenCV, scikit-learn**.  
-- ☁️ Familiar with **MLOps tools** (Docker, FastAPI, GitHub Actions, AWS/GCP).  
 - 📚 Always improving in **Generative AI & Large Language Models (LLMs)**.  
 
 ---
