@@ -27,15 +27,6 @@
 ![Abdo-Ezz2019's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdo-Ezz2019&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdo-Ezz2019&theme=radical)  
 
----
-
-## 🚀 Featured Projects  
-- [YOLOv8 Birth Certificate Project](https://github.com/YourUserName/project) 🧾 Detect & remove seals/barcodes from certificates.  
-- [AI Job Scraper](https://github.com/YourUserName/webscraper) 🌐 Collect & analyze job postings using BeautifulSoup + NLP.  
-- [Deep Learning Playground](https://github.com/YourUserName/dl-playground) 🧠 Experiments with CNNs, RNNs, Transformers.  
-
----
-
 ## 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/%D9%90%D9%90%D9%90abdelrhaman-abdelmoez-ahmed-672103225/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmanabdulmoezahmed@gmail.com)
