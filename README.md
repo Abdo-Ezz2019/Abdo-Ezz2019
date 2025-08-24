@@ -37,8 +37,8 @@
 ---
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/%D9%90%D9%90%D9%90abdelrhaman-abdelmoez-ahmed-672103225/))  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](abdulrahmanabdulmoezahmed@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/%D9%90%D9%90%D9%90abdelrhaman-abdelmoez-ahmed-672103225/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmanabdulmoezahmed@gmail.com)
 
 
 
